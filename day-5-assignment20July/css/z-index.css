@@ -1,0 +1,17 @@
+.header{
+    text-align: center;
+}
+
+
+#main{
+    width: 200px;height: 200px;
+    position: absolute; top: 0px; left: 0px;
+    background-image: url('../image/images.jpg');
+    z-index: -1;
+    
+}
+
+#header p{
+    position: relative;
+    z-index: 5000;
+}
